@@ -1,1 +1,19 @@
-Hello this is our lab charter
+Meetings: 
+  1) Length of meetings:
+Daily SCRUMS will be twice every week, excluding the lab meeting, for no longer than an hour, unless it is decided by the group that additional meetings should be scheduled. Meetings will be every lab (the whole 2 hours), every Thursday from 7PM-8PM, and Saturday from 4PM to 5PM. This communication should be made through Discord within 24 meetings before the next meeting. It is understod that if a meeting takes too long, members may have to leave for classes or work obligations. This type of situation will not constitute an offense.
+The purpose of meetings is to check in on tasks and continue with analyzing PBIs. Required questions to be answered include
+a) What did you complete since the last meeting?
+b) What do you still need to accomplish within your assigned tasks?
+c) What did you struggle with your tasks and what could be done to fix this?
+       
+  2) Missing a meeting:
+An occasional missing of a meeting can be accepted. If, however, an individual misses a meeting two times in a row or without a good cause, some disciplinary action may have to be taken. Acceptable justification of a missed meeting includes, but is not limited to: injury, illness, family emergency, work, conflicting class schedule, or death (yourself or other). If a meeting is missed for any other reason, the affected group members will decide as to whether the reason for missing the meeting is acceptable or in need of disciplinary action. Two meetings missed in a row without Discord-messaged valid excuse within 24 hrs will result in a minor offense. Three will result in a major offense. 
+
+3) Tardiness to meetings:
+A person being obviously late for a meeting and not fitting the structure of 'on time' shall be given over to disciplinary action as as described in minor offense. On time means the time the meeting is scheduled to start (7PM on Thursday and 4PM on Saturday). If an individual arrives at the meeting after the start time and the meeting has yet to get into purposeful conversation, then it may be overlooked. However, if there is no good excuse for being late and the meeting is clearly underway when the individual arrives, at the end of the meeting it will be discussed as to whether disciplinary action will have to be taken. Being late to a meeitng more than once constitutes a minor offence. Records of being late will be recorded by group note taker.
+
+4) Phone use during meetings:
+As we only have an hour each week to meet, it should not be too much to ask that outside phone calls/texts/general use should be prohibted unless they are perceived to be an emergency. The taking of phone calls/texts/general use will come into question if they are taken often during meetings and the offender will be politely asked to discontinue. If the behavior continues, it will be discussed among the group as to whether it should be a minor offense. Checking a text message will be allowed as well as sending an occassional text to let someone know you are in a meeting and will get back to them. However, social texting will not be allowed and the offender will again be politely asked to stop. If the behavior ontinues, it will be discussed among the gorup as to whether it should be a minor offense.
+
+5) Casual chatting during meetings:
+Due to the limited time frame of meetings, they must remain efficient and stick to project-related topics. If casual conversation does interrupt the meeting, redirection must be made within the minute to continue on the topic of the projet. If casual chatting continues, group conversation of how to handle distractions can take place after project-related topics have fully been covered. This discipline includes separating the chattier group members or directing attention using lists/white board/taking over the screen share. Additionally, after project-related topics have fully been convered, casual conversation can take place.
