@@ -1,3 +1,59 @@
+Danny----Participation
+1. Group participation: 
+If a group member isn't participating enough and not providing enough feeback to the group 
+it will be the leaders decision to ask them if they need to share more or less. They can be given one 
+week to add to the group work and if not it will be the leaders decision how to displine them. 
+If a group member is oversharing or overworking on the assignment, by  not giving other member a chance 
+to add to the work, the group can choose to distribute tasks to 
+2. Work not up to standard: 
+If you cannot meet your work standards for the given deadline it will be up to 
+the group dsitribute that task to the other group members. The group member will then 
+have to perform extra work for the next week to make up for the work lost. The standard 
+of work will be decided in the meeting by the other group members. Work can be not up 
+to standard if the group member has given a 24 hour notice or in case of an emegency. 
+In that case a volunteer will take the workload and if not then the group will decide 
+who can best complete the task. If a member continously does not meet expectations then, 
+disiplinary procedere will be taken
+3. Group members unprepared: 
+If a group member comes unprepared to a meeting without a valid excuse they will be given
+a grace period between meetings, this is not the same as work not up to standard. If a member 
+comes to the next group meeting unprepared then dispaplinary action will be taken
+4. Workload too heavy: 
+If a workload becomes to heavy for a group member, then firstly the other group 
+members should try to pick up the shortcomings of the other one. If this does not 
+work and all other members of the group become overwhelemed the group will email 
+"The Rock" to ask for additional help and or time
+
+=======
+
+Mike-->-Disciplinary-Procedures
+Hello this is our lab charter
+1. Regarding disciplinary actions: 
+Any disciplinary action to be administered can be overridden by group conscience, if 
+decided by a majority vote. 
+ 
+2. Disciplinary Log: 
+The note taker will be responsible for logging any information on offenses committed by 
+any member. This report will be sent out with the meeting notes every week so each 
+member knows where they stand.  
+ 
+3. Minor Group Offence: 
+A minor group offence can occur for breaking indicated statutes of the charter. Minor 
+offecnces will be discussed as a group with the offender in question. Group expectations 
+wil be reitterated to ensure all group members are on the same page.
+ 
+4. Major Group Offence: 
+A major group offence can occur by breaking indicated statutes of the charter, or for 
+accumulation of 3 or more minor offences. Major offences will be discussed with the group
+and TA as a moderator. A solutioin to the issue in question will be agreed upon by end of 
+meeting.
+ 
+5. Punishment and Dismissal: 
+A group member committing enough minor and major offences will finally have gone to 
+the dark side and demoted to Darth Vader. They will be referred to punishment and 
+dismissal and will be given over to review by the TA and governing bodies (the Rock). 
+An email describing the offences leading up to punishment and dismissal will be.
+=======
 Meetings: 
   1) Length of meetings:
 Daily SCRUMS will be twice every week, excluding the lab meeting, for no longer than an hour, unless it is decided by the group that additional meetings should be scheduled. Meetings will be every lab (the whole 2 hours), every Thursday from 7PM-8PM, and Saturday from 4PM to 5PM. This communication should be made through Discord within 24 meetings before the next meeting. It is understod that if a meeting takes too long, members may have to leave for classes or work obligations. This type of situation will not constitute an offense.
@@ -18,6 +74,7 @@ As we only have an hour each week to meet, it should not be too much to ask that
 5) Casual chatting during meetings:
 Due to the limited time frame of meetings, they must remain efficient and stick to project-related topics. If casual conversation does interrupt the meeting, redirection must be made within the minute to continue on the topic of the projet. If casual chatting continues, group conversation of how to handle distractions can take place after project-related topics have fully been covered. This discipline includes separating the chattier group members or directing attention using lists/white board/taking over the screen share. Additionally, after project-related topics have fully been convered, casual conversation can take place.
 
+communication-syeda
 
 Group communication and interaction:  
  
@@ -55,3 +112,4 @@ part six.
  
 6. Group decisions on delegation: 
 We will all ask or assign members according to what they would like to have. 
+=======
