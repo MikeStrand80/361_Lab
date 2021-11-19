@@ -1,3 +1,31 @@
+Danny----Participation
+1. Group participation: 
+If a group member isn't participating enough and not providing enough feeback to the group 
+it will be the leaders decision to ask them if they need to share more or less. They can be given one 
+week to add to the group work and if not it will be the leaders decision how to displine them. 
+If a group member is oversharing or overworking on the assignment, by  not giving other member a chance 
+to add to the work, the group can choose to distribute tasks to 
+2. Work not up to standard: 
+If you cannot meet your work standards for the given deadline it will be up to 
+the group dsitribute that task to the other group members. The group member will then 
+have to perform extra work for the next week to make up for the work lost. The standard 
+of work will be decided in the meeting by the other group members. Work can be not up 
+to standard if the group member has given a 24 hour notice or in case of an emegency. 
+In that case a volunteer will take the workload and if not then the group will decide 
+who can best complete the task. If a member continously does not meet expectations then, 
+disiplinary procedere will be taken
+3. Group members unprepared: 
+If a group member comes unprepared to a meeting without a valid excuse they will be given
+a grace period between meetings, this is not the same as work not up to standard. If a member 
+comes to the next group meeting unprepared then dispaplinary action will be taken
+4. Workload too heavy: 
+If a workload becomes to heavy for a group member, then firstly the other group 
+members should try to pick up the shortcomings of the other one. If this does not 
+work and all other members of the group become overwhelemed the group will email 
+"The Rock" to ask for additional help and or time
+
+=======
+
 Mike-->-Disciplinary-Procedures
 Hello this is our lab charter
 1. Regarding disciplinary actions: 
@@ -45,4 +73,4 @@ As we only have an hour each week to meet, it should not be too much to ask that
 
 5) Casual chatting during meetings:
 Due to the limited time frame of meetings, they must remain efficient and stick to project-related topics. If casual conversation does interrupt the meeting, redirection must be made within the minute to continue on the topic of the projet. If casual chatting continues, group conversation of how to handle distractions can take place after project-related topics have fully been covered. This discipline includes separating the chattier group members or directing attention using lists/white board/taking over the screen share. Additionally, after project-related topics have fully been convered, casual conversation can take place.
-main
+
