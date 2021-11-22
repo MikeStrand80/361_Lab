@@ -114,6 +114,8 @@ Due to the limited time frame of meetings, they must remain efficient and stick 
 Communication-syeda
 
 Group communication and interaction:  
+ Group Charter : The Hunters
+ 
 1. Regular communication:  
    Meet Thirce a week including one lab and two times virtually on discord about the ideas we have. 
    Meetings are one hour long maximum, and we go over all the tasks we need to do or have completed. 
@@ -130,18 +132,19 @@ Group communication and interaction:
  
 4. Group structure: 
 The group shall have the following roles to help the group be more efficient: 
+    These are the current roles. In order for the team to be sucessful, and fluid we have decided to switch the roles so that no one memeber of the team has           greater responsiblity then other memebers of the team.
 
-Yoda(Leader) – Kaille
+    Group name : The Hunters
+    Yoda(Leader) – Kaille 
+     Is responsible for making decisions if we were to come to conflict of interests. If there is a 50-50 tie in what the group wants. In addition, the most            important role is to help the team decide, represent, and make final decisions based on what the team would like. The leader will also be someone that the          team can talk to incase there are minor/major violations so that she/he can take the next steps.
 
-R2-D2 (Note takes)– Sana / Afrah
+    R2-D2 (Note takes)– Sana / Afrah 
+     The R2-D2 will be responsible for taking notes and attendance during the meeting. They will also record if any violations of the rules that happened. the          agenda, and what was accomplished in each meeting. In addition the R2-D2 will help the team manage several communication means of email, teams, discord, etc.      This was the team can stay connectted and everyone will know what is happening. 
 
-Han Solo(Agenda Maker) – Danny / Micheal
+    Han Solo(Agenda Maker) – Danny / Micheal
+     The Han Solo will announce the agenda of each meeting, and the upcoming meeting. They will also keep track of whether goals for each meeting were met or not.      They will keep track of and create realistic goals that the team can accomplish each week, and plan for the next week. By doing so the team can make progress      each meeting. 
 
-If any other roles come to mind we will be flexible to assign roles/tasks. 
-
-Group Charter: Team The Hunters
-
-Make progess and share it every 2 days. If someone misses a meeting let the team know 24 hours proir to missing the meeting. If team member does not communicate every often then they will be called out in a meeting so that they are aware, and that the team also agrees with the notion that they are not communicating.  
+      Make progess and share it every 2 days. If someone misses a meeting let the team know 24 hours proir to missing the meeting. If team member does not               communicate every often then they will be called out in a meeting so that they are aware, and that the team also agrees with the notion that they are not           communicating. The team will be resposible in making sure that all members of the team are keeping up, and not slacking. 
  
 5. Decision making: 
 Any decisions which need to be made about the project, project direction or disciplinary 
